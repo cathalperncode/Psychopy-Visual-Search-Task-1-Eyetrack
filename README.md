@@ -1,5 +1,5 @@
 # <p align="center"> Psychopy Search Task 1 </p>
-# <p align="center"> This Version Incorproates Eye Tracking using Eyelink 1000 by connecting to a wrapper code by Nick DiQuatro that you can find here </p>
+# <p align="center"> This Version Incorproates Eye Tracking using Eyelink 1000 by connecting to a wrapper code by Nick DiQuatro that you can find [here](https://github.com/ndiquattro/pylinkwrapper) </p>
 ## <p align="center"> Searching for a mushroom shape in an assigned context (between subjects) with either similar or distinct distractor mushrooms shapes </p>
 
 ### Paradigm Overview:
